@@ -1,3 +1,2 @@
-paddlepaddle/ppocr:v3
 onlyoffice/documentserver:7.1
 mmmz/trwebocr:latest
