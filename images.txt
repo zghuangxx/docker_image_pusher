@@ -1,1 +1,1 @@
-python:3.10.15-bullseye
+python:3.9.20-bullseye
