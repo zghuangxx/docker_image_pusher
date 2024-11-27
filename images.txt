@@ -1,1 +1,1 @@
-ygqygq2/fastdfs-nginx:6.9.4
+ygqygq2/fastdfs-nginx:V6.9.4
