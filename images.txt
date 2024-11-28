@@ -1,1 +1,1 @@
-ygqygq2/fastdfs-nginx:V6.9.4
+onlyoffice/documentserver-ee:7.1
